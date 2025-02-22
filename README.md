@@ -21,13 +21,15 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Personal Website](https://your-personal-website.com)
+- [LinkedIn](https://www.linkedin.com/in/divyalakshmi-vrps)
+- [Devpost](https://devpost.com/divyalakshmi5804?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+- [Instagram](https://www.instagram.com/divyalakshmi5804/)
+- [Personal Website (Under Construction)](https://divya-bice.vercel.app)
+- [Google Developer Profile](https://g.dev/divyalakshmivrps)
 
 ## 📫 How to Reach Me
 
-Feel free to reach out to me via [email](mailto:your-email@example.com) or through any of the social media platforms listed above.
+Feel free to reach out to me via [email](mailto:divyalakshmi5804@gmail.com) or through any of the social media platforms listed above.
 
 ---
 
