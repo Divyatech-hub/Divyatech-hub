@@ -69,7 +69,7 @@ I'm a **Computer Science major with Math and Entrepreneurship minors** at Michig
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/divyalakshmi-vrps)
 - 🧠 [Google Developer Profile](https://g.dev/divyalakshmivrps)
-- 🌐 [Personal Website](https://divya-bice.vercel.app) *(Coming soon!)*
+- 🌐 [Personal Website](https://divya-bice.vercel.app)
 - 💌 Email: [divyalakshmivara2022@gmail.com](mailto:divyalakshmivara2022@gmail.com)
 
 ---
